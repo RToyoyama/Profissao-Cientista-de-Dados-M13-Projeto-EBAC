@@ -1,0 +1,13 @@
+# Ignorar pastas
+doc/
+build/
+dist/
+
+# Ignorar arquivos específicos
+*.log
+*.csv
+*.ipynb_checkpoints/
+
+# Ignorar ambientes virtuais
+.venv/
+__pycache__/
