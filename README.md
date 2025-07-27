@@ -10,7 +10,7 @@ O projeto está organizado na seguinte estrutura de diretórios:
 
     Profissao Cientista de Dados M13 Projeto (Estatistica)/
     ├── dados/
-    │   └── Baixar arquivo (https://drive.google.com/file/d/1wEO7QtF4JicV3tenG-tmkf2rcdohD8x0/view?usp=drive_link)
+    │   └── Baixar arquivo e colocar aqui (https://drive.google.com/file/d/1wEO7QtF4JicV3tenG-tmkf2rcdohD8x0/view?usp=drive_link)
     ├── notebooks/
     │   └── Profissao Cientista de Dados M13 Projeto.ipynb
     ├── README.md
@@ -32,8 +32,9 @@ Como Executar o Projeto
 
 1. Clonar o repositório:
     git clone https://github.com/seu-usuario/meu_projeto_supermercado.git
-
-2. Criar e ativar um ambiente virtual (opcional):
+    Baixar e Inserir a base de dados na pasta 'data'
+    
+2. Criar e ativar um ambiente virtual:
     python -m venv .venv
     source .venv/bin/activate  # Linux/Mac
     .venv\Scripts\activate  # Windows
