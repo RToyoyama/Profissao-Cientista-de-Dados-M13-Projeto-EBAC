@@ -9,7 +9,7 @@ Estrutura do Projeto
 O projeto está organizado na seguinte estrutura de diretórios:
 
     Profissao Cientista de Dados M13 Projeto (Estatistica)/
-    ├── dados/
+    ├── data/
     │   └── Baixar arquivo e colocar aqui (https://drive.google.com/file/d/1wEO7QtF4JicV3tenG-tmkf2rcdohD8x0/view?usp=drive_link)
     ├── notebooks/
     │   └── Profissao Cientista de Dados M13 Projeto.ipynb
